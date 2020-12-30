@@ -16,6 +16,6 @@ class Dog
     end
 
   def save
-    @all << self
+    @@all << self
   end
 end
