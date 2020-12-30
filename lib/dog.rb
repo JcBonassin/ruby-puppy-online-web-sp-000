@@ -23,7 +23,5 @@ class Dog
     puts @@all.map(&:name)
   end
 
-  
+
 end
-
-
