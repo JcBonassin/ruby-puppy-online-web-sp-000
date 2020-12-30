@@ -23,5 +23,5 @@ class Dog
     puts @@all.map(&:name)
     # .map(&:name) shorcut of .map{ |dog| dog.name }
   end
-  
+
 end
